@@ -7,7 +7,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="/assets/img/favicon.png">
     <title>
-        VAM Australia Pty Ltd by Creative Tim
+        VAM Australia Pty Ltd by Joe Fu
     </title>
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -31,7 +31,7 @@
         <div class="col-12">
             <nav class="navbar navbar-expand-lg  blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
                 <div class="container-fluid">
-                    <a class="navbar-brand font-weight-bolder ms-sm-3" href="https://demos.creative-tim.com/soft-ui-design-system/index.html" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
+                    <a class="navbar-brand font-weight-bolder ms-sm-3" href="https://demos.creative-tim.com/soft-ui-design-system/index.html" rel="tooltip" title="Designed and Coded by Joe Fu" data-placement="bottom" target="_blank">
                         VAM Australia Pty Ltd
                     </a>
                     <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -684,13 +684,13 @@
                                 </ul>
                             </li>
                             <li class="nav-item ms-lg-auto">
-                                <a class="nav-link nav-link-icon me-2" href="https://github.com/creativetimofficial/soft-ui-design-system" target="_blank">
-                                    <i class="fa fa-github me-1"></i>
-                                    <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Github</p>
-                                </a>
+{{--                                <a class="nav-link nav-link-icon me-2" href="https://github.com/creativetimofficial/soft-ui-design-system" target="_blank">--}}
+{{--                                    <i class="fa fa-github me-1"></i>--}}
+{{--                                    <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Github</p>--}}
+{{--                                </a>--}}
                             </li>
                             <li class="nav-item my-auto ms-3 ms-lg-0">
-                                <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Upgrade to Pro</a>
+                                <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Call us now</a>
                             </li>
                         </ul>
                     </div>
@@ -705,7 +705,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 text-center mx-auto">
-                    <h1 class="text-white pt-3 mt-n5">We Specialized in <span class="text-white" id="typed"></span> </h1>
+                    <h1 class="text-white pt-3 mt-n5">We Specialized in <br /> <span class="text-white" id="typed"></span> </h1>
                     <div id="typed-strings">
                         <h1>Beverage and Wine</h1>
                         <h1>Vineyard Management</h1>
@@ -726,7 +726,7 @@
                     </script>
 
 
-                    <p class="lead text-white mt-3">Free & Open Source Web UI Kit built over Bootstrap 5. <br /> Join over 1.4 million developers around the world. </p>
+                    <p class="lead text-white mt-3">Contact us for your businesses<br /> </p>
                 </div>
             </div>
         </div>
@@ -913,7 +913,7 @@
                     <p class="my-4 text-sm">
                         All rights reserved. Copyright © <script>
                             document.write(new Date().getFullYear())
-                        </script> VAM Australia Pty Ltd by <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+                        </script> Website by <a href="https://www.creative-tim.com" target="_blank">Joe Fu</a>.
                     </p>
                 </div>
             </div>
